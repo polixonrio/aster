@@ -185,3 +185,19 @@
     background: linear-gradient(to top, #f7f7f7, #eaeaea);
   }
   
+
+  .lul{
+    color:#fff;
+    text-shadow:1px 1px 10px #fff, 1px 1px 10px #ccc;
+    font-size: large;
+    text-align:center;
+  }
+
+  .pimg {
+    width: 1000px !important; /* You can set the dimensions to whatever you want */
+    object-fit: cover;
+}
+
+.ol{
+    overflow: auto !important;
+}
